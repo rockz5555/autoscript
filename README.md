@@ -34,7 +34,7 @@
 # Setup DNS Cloudflare
 - `setup DNS Cloudflare like this`
 
-![cf](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/cf.jpg)
+![cf](https://raw.githubusercontent.com/rockz5555/autoscript/main/cf.jpg)
 # Installation
 - `Tested Debian 11 & Ubuntu 22`
 
@@ -44,4 +44,4 @@
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
 
 # Screenshot
-![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
+![ss](https://raw.githubusercontent.com/rockz5555/autoscript/main/xray.jpg)
